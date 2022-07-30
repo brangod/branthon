@@ -7,7 +7,7 @@ import Contact from '../pages/contact.vue'
 
 const routes = [
     {
-        path: "/",
+        path: "/branthon",
         component: Home,
     },
     {

@@ -52,7 +52,7 @@
 		</div>
 		<!-- links de navegacion -->
 		<router-link
-			to="/"
+			to="/branthon"
 			class="p-2.5 mt-9 flex items-center rounded-md px-4 duration-300 cursor-pointer hover:bg-blue-200 dark:hover:bg-slate-900/60"
 		>
 			<font-awesome-icon icon="fa-solid fa-address-card" />
